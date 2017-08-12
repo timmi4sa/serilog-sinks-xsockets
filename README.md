@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/d3cgfr4fm94w74b6/branch/master?svg=true)](https://ci.appveyor.com/project/serilog/serilog-sinks-xsockets/branch/master)
 
-A Serilog sink that writes events to [XSockets.NET](http://xsockets.net).
+A Serilog sink that writes events to [XSockets.NET](https://github.com/XSockets).
 
 You can get logs to anything that can connect to the XSockets server. So you will be able to get data to anything that has TCP/IP.
 
